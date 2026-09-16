@@ -1,0 +1,8 @@
+
+Scikit-learn==1.6.1
+pandas>=2.0
+numpy>=1.24
+joblib>=1.3
+Flask>=3.0
+plotly>=5.18
+matplotlib>=3.7
